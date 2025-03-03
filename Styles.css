@@ -1,0 +1,462 @@
+ @media (max-width: 768px) {
+
+        /* Styles for smaller screens (tablets) */
+
+        nav ul { 
+
+            display: none; 
+
+        }
+
+    }
+#Banner {
+	Width: 1000px;
+	height: 150px;
+	float: center;
+	Text-align: Center;
+	line-height: 150px;
+	font-size: 40px;
+	font-family: Arial Norrow;
+	max-width: 1000px;
+	margin: auto;
+	background-image: url("images/banner1.jpg");
+	text-shadow: 3px 3px 8px #D3D3D3;
+
+}
+.Home {
+	width: 250px;
+	height: 45px;
+	float: left;
+	text-align: center;
+	line-height: 45px;
+	max-width: 1000px;
+    margin-Left: 175px;
+	background-image: url("images/Home1.jpg");
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+	
+}
+.Home:hover {
+	background-image: url("images/Home Light.jpg");
+	cursor: pointer;
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+}
+.Gallery {
+	width: 250px;
+	height: 45px;
+	float: left;
+	text-align: center;
+	background-color: #00FFFF;
+	line-height: 45px;
+	max-width: 1000px;
+    margin: auto;
+	background-image: url("images/Gallery1.jpg");
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+
+}
+.Gallery:hover {
+	background-image: url("images/Gallery Light.jpg");
+	cursor: pointer;
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+}
+.Contact {
+	width: 250px;
+	height: 45px;
+	float: left;
+	text-align: center;
+	background-color: #00FFFF;
+	line-height: 45px;
+	max-width: 1000px;
+    margin: auto;
+	background-image: url("images/Contact Us1.jpg");
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+}
+	
+.Contact:hover {
+	background-image: url("images/Contact Us Light.jpg");
+	cursor: pointer;
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+}
+.About {
+	width: 250px;
+	height: 45px;
+	float: left;
+	text-align: center;
+	background-color: #00FFFF;
+	line-height: 45px;
+	max-width: 1000px;
+    margin: auto;
+	background-image: url("images/About Us1.jpg");
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+}
+.About:hover {
+	background-image: url("images/About Us Light.jpg");
+	cursor: pointer;
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+}
+.HomeIndex {
+	width: 1000px;
+	height: 800px;
+	text-align: center;
+    margin: auto;
+	background-image: url("images/index home.jpg");
+	background-size: 100% 100%;
+	
+	
+}
+.Index {
+	width: 1000px;
+	height: 700px;
+	text-align: center;
+    margin: auto;
+	background-image: url("images/index BG 2.jpg");
+	background-size: 100% 100%;
+}
+	
+.Footer {
+	Width: 1000px;
+	height: 150px;
+	max-width: 1000px;
+    margin: auto;
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+	text-align: center;
+	background-image: url("images/FOOTER.jpg"); 
+	min-height: 150px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.GalleryFooter {
+	Width: 1000px;
+	height: 150px;
+	max-width: 1000px;
+    margin: auto;
+	font-size: 20px;
+	font-family: Arial Norrow;
+	text-shadow: 3px 3px 5px #D3D3D3;
+	text-align: center;
+	background-image: url("images/FOOTER.jpg"); 
+	min-height: 250px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.Gallery 2 {
+	Width: 1000px;
+	Height: 100px;
+	background-image: url("images/index BG 2.jpg");
+}
+
+#div1 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/bar chairs.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#div1:hover {
+	background-image: url("gallery/bar chairs.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+	
+#div2 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/bedside table.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+	
+}
+
+#div2:hover {
+	background-image: url("gallery/bedside table.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+	
+#div3 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/coffee table.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#div3:hover {
+	background-image: url("gallery/coffee table.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+
+#div4 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/counter.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+#div4:hover {
+	background-image: url("gallery/counter.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div5 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/doggy stairs + cot.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div5:hover {
+	background-image: url("gallery/doggy stairs + cot.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div6 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/doll house.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div6:hover {
+	background-image: url("gallery/doll house.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div7 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/double bench.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div7:hover {
+	background-image: url("gallery/double bench.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div8 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/mobile counter.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div8:hover {
+	background-image: url("gallery/mobile counter.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div9 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/mobile dog bed.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div9:hover {
+	background-image: url("gallery/mobile dog bed.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div10 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/photo frame.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div10:hover {
+	background-image: url("gallery/photo frame.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div11 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/pic nic table.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div11:hover {
+	background-image: url("gallery/pic nic table.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div12 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/side table.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div12:hover {
+	background-image: url("gallery/side table.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div13 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/single bench.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div13:hover {
+	background-image: url("gallery/single bench.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div14 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/single chair.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div14:hover {
+	background-image: url("gallery/single chair.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+#div15 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: center;
+	max-width: 200px;
+    max-height: 200px;
+	background-image: url("gallery/spice rack.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#div15:hover {
+	background-image: url("gallery/spice rack.jpg");
+	cursor: pointer;
+	font-family: Arial Norrow;
+	border-radius: 10px;
+    transform: scale(1.5);
+}
+
+
